@@ -1,0 +1,8 @@
+A + B => C
+C => D
+D => F
+F + (A | B) ^ !O => X
+A + D => O
+
+=AB
+?OPA
